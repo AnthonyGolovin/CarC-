@@ -1,0 +1,11 @@
+C:\Users\AGOLO\Desktop\CarDealership\bin\Debug\netcoreapp2.2\car.deps.json
+C:\Users\AGOLO\Desktop\CarDealership\bin\Debug\netcoreapp2.2\car.runtimeconfig.json
+C:\Users\AGOLO\Desktop\CarDealership\bin\Debug\netcoreapp2.2\car.runtimeconfig.dev.json
+C:\Users\AGOLO\Desktop\CarDealership\bin\Debug\netcoreapp2.2\car.dll
+C:\Users\AGOLO\Desktop\CarDealership\bin\Debug\netcoreapp2.2\car.pdb
+C:\Users\AGOLO\Desktop\CarDealership\obj\Debug\netcoreapp2.2\car.csprojAssemblyReference.cache
+C:\Users\AGOLO\Desktop\CarDealership\obj\Debug\netcoreapp2.2\car.csproj.CoreCompileInputs.cache
+C:\Users\AGOLO\Desktop\CarDealership\obj\Debug\netcoreapp2.2\car.AssemblyInfoInputs.cache
+C:\Users\AGOLO\Desktop\CarDealership\obj\Debug\netcoreapp2.2\car.AssemblyInfo.cs
+C:\Users\AGOLO\Desktop\CarDealership\obj\Debug\netcoreapp2.2\car.dll
+C:\Users\AGOLO\Desktop\CarDealership\obj\Debug\netcoreapp2.2\car.pdb
